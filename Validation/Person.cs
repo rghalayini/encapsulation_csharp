@@ -85,7 +85,7 @@ namespace Lab_Encapsulation
 
         public override string ToString()
         {
-            return $"{this.FirstName} {this.LastName} is {this.Age} years old and receives {this.salary}$ for salary.";
+            return $"{this.FirstName} {this.LastName} is {this.Age} years old and receives {this.Salary}$ for salary.";
         }
 
 
@@ -101,8 +101,5 @@ namespace Lab_Encapsulation
                 this.salary += this.salary * percentage / 200;
             }
         }
-
-        // validation of data
-
     }
 }

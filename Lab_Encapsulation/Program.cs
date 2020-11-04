@@ -23,6 +23,8 @@ namespace Lab_Encapsulation
                    .ThenBy(p => p.Age)
                    .ToList()
                    .ForEach(p => Console.WriteLine(p.ToString()));
+            
+            Console.ReadLine();
         }
     }
 }

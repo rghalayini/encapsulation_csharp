@@ -23,24 +23,27 @@ namespace Lab_Encapsulation
         private decimal salary;
 
 
-        private string FirstName
+        public string FirstName
         {
             get { return this.firstName; }
         }
-        private string LastName
+        public string LastName
         {
             get { return this.lastName; }
         }
-        private int Age
+        public int Age
         {
             get { return this.age; }
         }
-
-
+        public decimal Salary
+        {
+            get { return this.salary; }
+        }
+        
 
         public override string ToString()
         {
-            return $"{this.FirstName} {this.LastName} receives {this.salary} years old.";
+            return $"{this.FirstName} {this.LastName} receives {this.Salary} years old.";
         }
 
 

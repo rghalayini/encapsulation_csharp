@@ -1,0 +1,2 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Encapsulation\Tests\SortPersonTest\obj\Debug\SortPersonTest.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Encapsulation\Tests\SortPersonTest\obj\Debug\SortPersonTest.csproj.CoreCompileInputs.cache

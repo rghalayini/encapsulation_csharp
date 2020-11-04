@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teams", "Teams\Teams.csproj", "{AAD32DAA-3308-46E6-A8D9-F21CD69A2849}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{02836948-38A6-45D7-A7A3-A4E53C1ACDA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AAD32DAA-3308-46E6-A8D9-F21CD69A2849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD32DAA-3308-46E6-A8D9-F21CD69A2849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAD32DAA-3308-46E6-A8D9-F21CD69A2849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02836948-38A6-45D7-A7A3-A4E53C1ACDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02836948-38A6-45D7-A7A3-A4E53C1ACDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02836948-38A6-45D7-A7A3-A4E53C1ACDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02836948-38A6-45D7-A7A3-A4E53C1ACDA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

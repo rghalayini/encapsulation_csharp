@@ -26,8 +26,6 @@ namespace Teams
                 team.AddPlayer(p);
             }
 
-            //Console.WriteLine("First team has " + team.count + " players");
-            //Console.WriteLine
             Console.ReadLine();
         }
     }
